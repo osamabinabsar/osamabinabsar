@@ -5,9 +5,11 @@
 
 
 [About me]
+
 I call myself Tech and Cyber Security enthusiast, tinkering with technologies and security focused mindset from my childhood.
 
-##Objective
+## Objective
+
 My passion in tech and security led me to develop my skills for cybersecurity, focusing on purple teaming. I am now forseeing to apply the skills I gained through different challanges and CTF's in the real world to protect assets of companies and industries from threats, specifically focused to join as a Security Engineer, SOC or DFIR.
 
 
