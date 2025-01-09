@@ -3,8 +3,7 @@
 <a href="https://linkedin.com/obaiariya/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&stile=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-
-[About me]
+## About me
 
 I call myself Tech and Cyber Security enthusiast, tinkering with technologies and security focused mindset from my childhood.
 
