@@ -1,7 +1,8 @@
 ## Hi there 👋, I am Osama Bin Absar, welcome, proceed to know me further.
 
-<a href="https://linkedin.com/obaiariya/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&stile=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+<a href="https://linkedin.com/osamabinabsar/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&stile=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linktr.ee/osamabinabsar/"><img src="[https://img.shields.io/badge/-LinkedIn-0072b1?&stile=for-the-badge&logo=linkedin&logoColor=white](<https://img.shields.io/badge/-Linktree-39E0D5?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/osamabinabsar>)" /></a>
 
 ## About me
 
