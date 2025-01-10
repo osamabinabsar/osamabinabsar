@@ -103,9 +103,9 @@ I am a dedicated cybersecurity professional with a strong focus on purple teamin
 ## Certifications
 <div>
   <a href="![Forage Job Simulation Internship](image.png)" target="_blank">
-    <img src="image.png" alt="Forage" style="height: 27px; vertical-align: top;" />
-  </a>
-  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white"  />
+    <img src="image.png" alt="Forage Job Simulation" style="height: 27px; vertical-align: top;" />
+  </a><a href="https://">
+  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white"  /></a>
    <img src="https://img.shields.io/badge/-CISSP-316194?style=for-the-badge&logo=ISC2&logoColor=white" />
   <img src="https://img.shields.io/badge/-TryHackMe-FF0000?style=for-the-badge&logo=TryHackMe&logoColor=808080" />
   <img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=HackTheBox&logoColor=white" />
@@ -119,10 +119,12 @@ I am a dedicated cybersecurity professional with a strong focus on purple teamin
 
  ## Projects
 
-- Log Analysis for Incident Detection: Analyzed logs using Splunk and ELK Stack to detect and mitigate attacks.
-- OWASP Juice Shop: Explored web application vulnerabilities using OWASP Juice Shop.
-- Network Traffic Analysis: Conducted traffic monitoring and attack detection using Wireshark and Suricata.
-- Purple Teaming Simulation: Combined offensive and defensive techniques in mock environments to test system resilience.
+| Project                             |  Details | 
+|-------------------------------------|-----------------------------|
+| Log Analysis for Incident Detection | Analyzed logs using Splunk and ELK Stack to detect and mitigate attacks. |
+| OWASP Juice Shop |  Explored web application vulnerabilities using OWASP Juice Shop. |
+| Network Traffic Analysis |  Conducted traffic monitoring and attack detection using Wireshark and Suricata. |
+| Purple Teaming Simulation | Combined offensive and defensive techniques in mock environments to test system resilience. |
 <!--
 **osamabinabsar/osamabinabsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
