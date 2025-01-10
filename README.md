@@ -6,19 +6,32 @@
 
 ## About me
 
+
+<!--
 I call myself Tech and Cyber Security enthusiast, tinkering with technologies and security focused mindset from my childhood.
 
 My passion in tech and security led me to develop my skills for cybersecurity, focusing on purple teaming. I am now forseeing to apply the skills I gained through different challanges and CTF's in the real world to protect assets of companies and industries from threats, specifically focused to join as a Security Engineer, SOC or DFIR.
+-->
+I am a tech and cybersecurity enthusiast with a passion for protecting digital assets and solving security challenges. With a security-focused mindset since childhood, I have honed my skills through self-study, hands-on labs, and real-world simulations. My focus lies in purple teaming, combining offensive and defensive strategies to identify and mitigate threats effectively.
+
+I aim to make a meaningful impact as a Security Engineer, SOC Analyst, or DFIR Specialist, contributing to the security and resilience of organizations worldwide.
+
 
 
 ## Objective
 
+<!--
 Passionate Cybersecurity practitioner with a strong focus on purple teaming combining offensive security 
 techniques with defensive strategies to identify vulnerabilities and strengthen system defences. I have hands-on 
 experience in security engineering and SOC operations including log analysis, system hardening, SIEM 
 monitoring. Specializing in web application security and continuously enhancing my skills through learning and 
 practical labs. Enthusiastic about proactive defence and threat detection I am committed to delivering practical and 
 effective security solutions.
+-->
+
+I am a dedicated cybersecurity professional with a strong focus on purple teaming, blending offensive and defensive techniques to secure systems against evolving threats. My expertise spans security engineering, SOC operations, web application security, and vulnerability management. Committed to continuous learning, I thrive on delivering proactive defense strategies and effective threat detection solutions.
+
+
 
 
 
@@ -29,8 +42,12 @@ effective security solutions.
 | Skills                                                         | Associated Projects, Notes, Experiences                    |
 |---------------------------------------------------------------|------------------------------------------------------------| 
 | Network Traffic Monitoring, Analysis and Attack Detection     |<a href="https://www.notion.so/learningselfstudy/Network-Traffic-Analysis-64730a958fde424d9767b5ee0a6efca2">Wireshark, tcpdump with online labs| 
-| IncidentResponse Planning and Execution                       | 
-| SIEM Implementation and Log analysis                          | 
+| Incident Response Planning and Execution                       |  Developed an IR plan for mock environments and tested execution in CTF scenarios. 
+| SIEM Implementation and Log analysis                          | Hands-on experience configuring and analyzing logs using Splunk and ELK Stack.
+| Web Application Security	                                    | Explored OWASP Top 10 vulnerabilities through projects like OWASP Juice Shop and other hands-on challenges.
+| Penetration Testing	            |   Conducted assessments using Metasploit, Burp Suite, and manual techniques.
+| Vulnerability Management	  |  Experience in scanning and remediating vulnerabilities using Nmap and Nessus.
+
 
 
 
@@ -54,7 +71,8 @@ effective security solutions.
 
 <div>
   <img src="https://img.shields.io/badge/-Nmap-367ADF?style=for-the-badge&logo=Nmap&logoColor=white" />
-  
+  <img src="https://img.shields.io/badge/-Nessus-00BFFF?style=for-the-badge&logo=Nessus&logoColor=white" /> </div>
+
 </div>
 
 
@@ -67,22 +85,30 @@ effective security solutions.
 
 
  
- ### Endpoint
+ ### Endpoint Security
 
+<div> <img src="https://img.shields.io/badge/-OSSEC-35495E?style=for-the-badge&logo=OSSEC&logoColor=white" /> <img src="https://img.shields.io/badge/-Sysmon-0052CC?style=for-the-badge&logo=Windows&logoColor=white" /> </div>
 
 
  ### SIEM
 
+<div> <img src="https://img.shields.io/badge/-Splunk-FD8A00?style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-ELK_Stack-005571?style=for-the-badge&logo=Elastic&logoColor=white" /> </div>
 
 
-
+<!--
 ### Cloud
-
+<div> <img src="https://img.shields.io/badge/-AWS_Security-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" /> <img src="https://img.shields.io/badge/-Google_Cloud_Security-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white" /> </div>
+-->
 
 ## Certifications
 <div>
-  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-00ABE7?style=for-the-badge&logo=CompTIA&logoColor=white"  />
-  <img src="https://img.shields.io/badge/-Google_Cloud_Security_Engineer-4285F4?style=for-the-badge&logo=Google-Cloud&logoColor=white"  />
+  <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white"  />
+   <img src="https://img.shields.io/badge/-CISSP-316194?style=for-the-badge&logo=ISC2&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TryHackMe-FF0000?style=for-the-badge&logo=TryHackMe&logoColor=808080" />
+  <img src="https://img.shields.io/badge/-HackTheBox-9FEF00?style=for-the-badge&logo=HackTheBox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Let's_Defend-0057A4?style=for-the-badge&logo=LetsDefend&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Blue_Team_Security-007FFF?style=for-the-badge&logo=Security&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Google_Cloud_Security_Engineer-FFFFFF?style=for-the-badge&logo=Google-Cloud&logoColor=White"  />
 
   
 </div>
@@ -90,10 +116,10 @@ effective security solutions.
 
  ## Projects
 
-- Log Analysis
-- OWASP Juice Shop
-- 
-
+- Log Analysis for Incident Detection: Analyzed logs using Splunk and ELK Stack to detect and mitigate attacks.
+- OWASP Juice Shop: Explored web application vulnerabilities using OWASP Juice Shop.
+- Network Traffic Analysis: Conducted traffic monitoring and attack detection using Wireshark and Suricata.
+- Purple Teaming Simulation: Combined offensive and defensive techniques in mock environments to test system resilience.
 <!--
 **osamabinabsar/osamabinabsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
