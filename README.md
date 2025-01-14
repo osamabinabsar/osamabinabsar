@@ -50,6 +50,15 @@ I am a dedicated cybersecurity professional with a strong focus on purple teamin
 
 
 
+ ## Projects
+
+| Project                             |  Details | 
+|-------------------------------------|-----------------------------|
+| Log Analysis for Incident Detection | Analyzed logs using Splunk and ELK Stack to detect and mitigate attacks. |
+| OWASP Juice Shop |  Explored web application vulnerabilities using OWASP Juice Shop. |
+| Network Traffic Analysis |  Conducted traffic monitoring and attack detection using Wireshark and Suricata. |
+| Purple Teaming Simulation | Combined offensive and defensive techniques in mock environments to test system resilience. |
+| Risk Assessment and Management | Identified Assets and analyzed risk for safeguard implementation. [Risk Management (Project)](https://github.com/osamabinabsar/TryHackMe/blob/notes/Risk%20Management(%7BPractical).md)
 
 
  ## Tools
@@ -117,14 +126,6 @@ I am a dedicated cybersecurity professional with a strong focus on purple teamin
 </div>
 
 
- ## Projects
-
-| Project                             |  Details | 
-|-------------------------------------|-----------------------------|
-| Log Analysis for Incident Detection | Analyzed logs using Splunk and ELK Stack to detect and mitigate attacks. |
-| OWASP Juice Shop |  Explored web application vulnerabilities using OWASP Juice Shop. |
-| Network Traffic Analysis |  Conducted traffic monitoring and attack detection using Wireshark and Suricata. |
-| Purple Teaming Simulation | Combined offensive and defensive techniques in mock environments to test system resilience. |
 <!--
 **osamabinabsar/osamabinabsar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
