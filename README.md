@@ -46,7 +46,7 @@ I am a dedicated cybersecurity professional with a strong focus on purple teamin
 | SIEM Implementation and Log analysis                          | Hands-on experience configuring and analyzing logs using Splunk and ELK Stack.
 | Web Application Security	                                    | Explored OWASP Top 10 vulnerabilities through projects like OWASP Juice Shop and other hands-on challenges.
 | Penetration Testing	            |   Conducted assessments using Metasploit, Burp Suite, and manual techniques.
-| Vulnerability Management	  |  Experience in scanning and remediating vulnerabilities using Nmap and Nessus.
+| Vulnerability Management	  |  Experience in scanning and remediating vulnerabilities using Nmap and Nessus and Greenbone. 
 
 
 
@@ -59,6 +59,7 @@ I am a dedicated cybersecurity professional with a strong focus on purple teamin
 | Network Traffic Analysis |  Conducted traffic monitoring and attack detection using Wireshark and Suricata. |
 | Purple Teaming Simulation | Combined offensive and defensive techniques in mock environments to test system resilience. |
 | Risk Assessment and Management | Identified Assets and analyzed risk for safeguard implementation. [Risk Management (Project)](https://github.com/osamabinabsar/TryHackMe/blob/notes/Risk%20Management(%7BPractical).md)
+| Vulnerability Management | Identified Assets and vulnerabilities related to those assets and took action for patching. [Vulnerability Management with Greenbone](https://github.com/osamabinabsar/TryHackMe/blob/476632a5f490ffe670af8ff4ccabc11efa1c9f51/Vulnerability%20Management(Greenbone).md)
 
 
  ## Tools
