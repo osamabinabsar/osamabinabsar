@@ -113,7 +113,7 @@ I am a dedicated cybersecurity professional with a strong focus on purple teamin
 ## Certifications
 <div>
   <a href="![Forage Job Simulation Internship](image.png)" target="_blank">
-    <img src="image.png" alt="Forage Job Simulation" style="height: 27px; vertical-align: top;" />
+    <img src="forage.png" alt="Forage Job Simulation" style="height: 27px; vertical-align: top;" />
   </a><a href="https://">
   <img src="https://img.shields.io/badge/-CompTIA_Security%2B-FF0000?style=for-the-badge&logo=CompTIA&logoColor=white"  /></a>
    <img src="https://img.shields.io/badge/-CISSP-316194?style=for-the-badge&logo=ISC2&logoColor=white" />
