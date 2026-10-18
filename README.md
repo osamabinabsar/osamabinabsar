@@ -1,4 +1,4 @@
-# Osama Bin Absar**Cybersecurity Engineer — SOC, Purple Team & GRC · AI Agents & Automation Builder**Security engineer with a purple-team core (SOC operations, SIEM, system hardening,vulnerability management, web app security) who also builds AI agents and automationworkflows — the rare profile that both hardens systems and automates the work around them.📍 Finland → relocating to UAE · 🔓 Open to security / SOC / AI-automation roles[Portfolio](https://osamabinabsar.github.io) · [LinkedIn](https://www.linkedin.com/in/osamabinabsar) · [TryHackMe — Top 4%](https://tryhackme.com/p/itz.osama)## Featured projects| Project | What it is ||---|---|| [soc-automation-platform](https://github.com/osamabinabsar/soc-automation-platform) | Detection-as-code pipeline: log ingestion → Sigma-lite rule matching → alerting, with a full runnable demo on synthetic logs. |# Osama Bin Absar
+# Osama Bin Absar
 
 **Cybersecurity Engineer — SOC, Purple Team & GRC · AI Agents & Automation Builder**
 
